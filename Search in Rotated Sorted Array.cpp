@@ -33,7 +33,6 @@ class Solution {
             return findv(nums, 0, e, target);
         }
         int index = find(nums, 0, e);
-        cout << index;
         int ans = findv(nums, s, index, target);
         if (ans == -1) ans = findv(nums, index + 1, e, target);
         return ans;
