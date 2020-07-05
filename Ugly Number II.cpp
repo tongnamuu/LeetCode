@@ -9,7 +9,6 @@ class Solution {
                 }
             }
         }
-        cout << ans.size();
         sort(ans.begin(), ans.end());
         return ans[n - 1];
     }
