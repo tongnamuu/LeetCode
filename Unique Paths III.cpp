@@ -40,7 +40,6 @@ class Solution {
                 }
             }
         }
-        cout << sx << ' ' << sy << ' ' << ex << ' ' << ey << '\n';
         visit[sx][sy] = 1;
         int ans = 0;
         go(sx, sy, ex, ey, visit, grid, ans, cnt, 1);
