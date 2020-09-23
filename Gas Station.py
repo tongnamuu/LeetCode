@@ -1,19 +1,17 @@
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         n = len(gas)
-        for start in range(0, n):
-            v = start
-            now = gas[v]
-            for i in range(0, n):
-                now -= cost[v]
-                v += 1
-                if v == n:
-                    v = 0
-                if now < 0:
-                    break
-                now += gas[v]
+        rest = [g - c for g, c in zip(gas, cost)]
+        if sum(rest) < 0:
+            return -1
+        v = rest[0]
+        ans = 0
+        for i in range(1, n):
+            rest[i] += rest[i - 1]
+            if rest[i] < v:
+                ans = i
+                v = rest[i]
 
-            if now >= 0:
-                return start
-
-        return -1
+        if ans == n - 1:
+            return 0
+        return ans + 1
