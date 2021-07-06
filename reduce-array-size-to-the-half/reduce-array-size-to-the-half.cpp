@@ -9,7 +9,6 @@ public:
         });
         int cnt = 1;
         int prev = arr[0];
-        for(int i:arr) cout<<i << ' ';
         for(int i=1;i<arr.size();++i) {
             if(i >= arr.size() / 2) {
                 return cnt;
