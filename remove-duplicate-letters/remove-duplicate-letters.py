@@ -6,7 +6,7 @@ class Solution:
         for ch in s:
             counter[ch] -= 1
             if ch not in visit:
-                while stack and stack[-1] > ch and counter[stack[-1]]:
+                while stack and stack[-1] > ch and counter[stack[-1]] > 0:
                     visit.remove(stack[-1])
                     stack.pop()
                 visit.add(ch)
