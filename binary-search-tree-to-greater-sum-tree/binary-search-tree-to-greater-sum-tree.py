@@ -10,14 +10,10 @@ class Solution:
             nonlocal val
             if not node:
                 return
-            if node.right:
-                solve(node.right)
-        
+            solve(node.right)
             val += node.val;
             node.val = val;
-        
-            if node.left:
-                solve(node.left)
+            solve(node.left)
         val = 0
         solve(root)
         return root
