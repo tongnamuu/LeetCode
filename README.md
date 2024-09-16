@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tongnamuu/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
