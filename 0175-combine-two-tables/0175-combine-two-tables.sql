@@ -1,4 +1,5 @@
-/* Write your PL/SQL query statement below */
+# Write your MySQL query statement below
 select a.firstName, a.lastName, b.city, b.state
-from Person a, Address b
-where a.personId = b.personId(+)
+from Person a
+left outer join Address b
+on a.personId = b.personId
