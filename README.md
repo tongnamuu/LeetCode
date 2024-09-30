@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
