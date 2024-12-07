@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tongnamuu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tongnamuu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Binary Search
+|  |
+| ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
