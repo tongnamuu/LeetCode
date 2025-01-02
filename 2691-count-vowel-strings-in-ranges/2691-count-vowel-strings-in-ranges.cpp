@@ -7,7 +7,6 @@ public:
             string& x = words[i-1];
             bool s = isStartAndEndWithVowel(x);
             cnt[i] = cnt[i-1] + s;
-            cout<<i<<' '<<cnt[i]<<'\n';
         }
         int m = queries.size();
         vector<int>ans(m);
