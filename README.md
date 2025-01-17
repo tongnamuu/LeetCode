@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tongnamuu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
