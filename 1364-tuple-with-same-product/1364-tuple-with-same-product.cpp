@@ -15,11 +15,9 @@ public:
         int prev = temp[0];
         int cnt = 1;
         for(int i=1;i<m;i++) {
-            //cout<<temp[i]<<'\n';
             if(prev == temp[i]) {
                 cnt++;
             } else {
-                //cout<<prev <<' '<<cnt<<'\n';
                 ans += cnt * (cnt-1) * 2 * 2;
                 cnt = 1;
             }
