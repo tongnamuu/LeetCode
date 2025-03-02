@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tongnamuu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tongnamuu/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
