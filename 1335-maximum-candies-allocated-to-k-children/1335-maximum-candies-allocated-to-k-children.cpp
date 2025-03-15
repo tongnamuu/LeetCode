@@ -3,8 +3,6 @@ public:
     int maximumCandies(vector<int>& candies, long long k) {
       int start = 0;
       int end = 10000000;
-      int n = candies.size();
-      sort(candies.begin(), candies.end());
       while(start<=end) {
         int mid = (start + end) / 2;
         if(ok(mid, candies, k)) {
