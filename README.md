@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tongnamuu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tongnamuu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/tongnamuu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tongnamuu/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tongnamuu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
@@ -241,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
