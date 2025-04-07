@@ -10,8 +10,8 @@ public:
         }
         if(val < 0) return false;
         if(d[idx][val] != -1) {
-            if(d[idx][val]>0) return true;
-            return false;
+           if(d[idx][val]>0) return true;
+           return false;
         }
         return d[idx][val] = (solve(idx-1, val, nums) || solve(idx-1, val - nums[idx], nums));
 
