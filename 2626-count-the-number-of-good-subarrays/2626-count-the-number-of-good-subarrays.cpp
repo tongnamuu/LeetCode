@@ -16,7 +16,6 @@ public:
             } else {
                 while(i<n && count>=k) {
                     ans += (long long)(n-j + 1);
-                    cout<<i<<' '<<j<<'\n';
                     seen[nums[i]]--;
                     count -= seen[nums[i]];
                     i++;
