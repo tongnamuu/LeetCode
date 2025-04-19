@@ -9,8 +9,8 @@ public:
         for(int i=0;i<n;i++) {
             int minV = lower - nums[i];
             int maxV = upper - nums[i];
-            int minIdx = lower_bound(nums.begin() + i + 1, nums.end(), minV) - (nums.begin() + i + 1);
-            int maxIdx = upper_bound(nums.begin() + i + 1, nums.end(), maxV) - (nums.begin() + i + 1);
+            int minIdx = lower_bound(nums.begin() + i + 1, nums.end(), minV) - (nums.begin());
+            int maxIdx = upper_bound(nums.begin() + i + 1, nums.end(), maxV) - (nums.begin());
             // minIdx
             if(minIdx>=n) continue;
             //maxIdx
