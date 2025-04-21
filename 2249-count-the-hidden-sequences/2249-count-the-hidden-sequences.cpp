@@ -16,7 +16,6 @@ public:
                 s = m + 1;
             }
         }
-        cout<<s<<' '<<e<<'\n';
         minValue = s;
         // ooooooxxxxx
         s = -100000;
@@ -29,7 +28,6 @@ public:
                 e = m - 1;
             }
         }
-        cout<<s<<' '<<e<<'\n';
         maxValue = e;
         return max(0, maxValue - minValue + 1);
     }
