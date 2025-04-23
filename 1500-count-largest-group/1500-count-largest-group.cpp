@@ -14,7 +14,6 @@ public:
                 val++;
             }
         }
-        cout<<ans<<' '<<val<<'\n';
         return val;
     }
 
