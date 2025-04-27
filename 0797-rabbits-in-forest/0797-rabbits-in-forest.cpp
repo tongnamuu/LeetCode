@@ -9,10 +9,8 @@ public:
         for(auto i = cnt.begin();i!=cnt.end();i++) {
             int r = i -> first;
             int number = i -> second;
-            while(number > 0) {
-                number -= (r + 1);
-                ans += (r + 1);
-            }
+            int x = (number + r) / ( r + 1);
+            ans += x * (r + 1);
         }
         return ans;
     }
