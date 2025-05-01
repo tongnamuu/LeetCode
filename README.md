@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/tongnamuu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Database
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tongnamuu/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Depth-First Search
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tongnamuu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tongnamuu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -340,9 +344,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
