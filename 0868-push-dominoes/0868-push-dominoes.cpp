@@ -30,26 +30,18 @@ public:
                 while(i<n&&s[i] !='L') {
                     if(s[i]=='R') {
                         right[i] = 0;
-                        i++;
                         d=1;
                     } else {
                         right[i] = d;
                         d++;
-                        i++;
                     }
+                    i++;
                 }
             } else {
                 i++;
             }
         }
         string ans;
-        for(i=0;i<n;i++) {
-            cout<<left[i];
-        }
-        cout<<'\n';
-        for(i=0;i<n;i++) {
-            cout<<right[i];
-        }
         for(int i=0;i<n;i++) {
             if(left[i]==-1 && right[i] == -1) {
                 ans +='.';
