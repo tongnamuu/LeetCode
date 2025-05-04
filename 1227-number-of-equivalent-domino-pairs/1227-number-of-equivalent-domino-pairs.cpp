@@ -10,17 +10,17 @@ public:
             }
             return u[0] < v[0];
         });
-        vector<int>& prev = dominoes[0];
+        vector<int>* prev = &dominoes[0];
         int ans = 0;
         int idx = 0;
         for(int i=1;i<dominoes.size();i++) {
-            if(prev[0] == dominoes[i][0] && prev[1] == dominoes[i][1]) {
+            if((*prev)[0] == dominoes[i][0] && (*prev)[1] == dominoes[i][1]) {
                 continue;
             } else {
                 int cnt = i-1 -idx + 1;
                 ans += cnt*(cnt-1) / 2;
                 idx = i;
-                prev = dominoes[i];
+                prev = &dominoes[i];
             }
         }
         int cnt = dominoes.size()-1 -idx + 1;
