@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/tongnamuu/LeetCode/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tongnamuu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
