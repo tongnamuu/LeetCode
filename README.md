@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0952-word-subsets](https://github.com/tongnamuu/LeetCode/tree/master/0952-word-subsets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/tongnamuu/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tongnamuu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/tongnamuu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
