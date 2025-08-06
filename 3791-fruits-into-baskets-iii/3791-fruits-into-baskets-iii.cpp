@@ -17,11 +17,11 @@ public:
                 for(int k=0;k<m;k++) {
                     int idx = j*m + k;
                     if(idx>=n) break;
-                    if(idx< n && fruits[i] <= baskets[idx] && !occupied) {
+                    if(fruits[i] <= baskets[idx] && !occupied) {
                         baskets[idx] = 0;
                         occupied = 1;
                     }
-                    if(idx< n) interval[j] = max(interval[j], baskets[idx]);
+                    interval[j] = max(interval[j], baskets[idx]);
                 }
                 break;
             }
