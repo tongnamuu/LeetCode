@@ -2,8 +2,8 @@ class Solution {
 public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
         int n = fruits.size();
-        int m = 300;
-        int intervalCount = 340;
+        int m = 250;
+        int intervalCount = 400;
         vector<int>interval(intervalCount);
         for(int i=0;i<n;i++) {
             interval[i/m] = max(interval[i/m], baskets[i]);
