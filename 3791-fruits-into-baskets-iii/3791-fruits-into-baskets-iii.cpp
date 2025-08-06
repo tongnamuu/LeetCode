@@ -9,13 +9,12 @@ public:
             interval[i/m] = max(interval[i/m], baskets[i]);
         }
         int ans = 0;
-        int i=0,j=0,k=0;
-        for(i=0;i<n;i++) {
+        for(int i=0;i<n;i++) {
             int occupied = 0;
-            for(j=0;!occupied && j<intervalCount;j++) {
+            for(int j=0;!occupied && j<intervalCount;j++) {
                 if(interval[j] < fruits[i]) continue;
                 interval[j] = 0;
-                for(k=0;k<m;k++) {
+                for(int k=0;k<m;k++) {
                     int idx = j*m + k;
                     if(idx>=n) break;
                     if(idx< n && fruits[i] <= baskets[idx] && !occupied) {
