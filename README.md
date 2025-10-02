@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/tongnamuu/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3336-water-bottles-ii](https://github.com/tongnamuu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tongnamuu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/tongnamuu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tongnamuu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3336-water-bottles-ii](https://github.com/tongnamuu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
