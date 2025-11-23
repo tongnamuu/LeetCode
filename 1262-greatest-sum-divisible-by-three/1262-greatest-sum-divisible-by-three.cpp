@@ -1,13 +1,11 @@
 class Solution {
 public:
     int maxSumDivThree(vector<int>& nums) {
-        int ans = 0;
         int sum = 0;
         vector<vector<int>>a = vector<vector<int>>(2);
         for(int i : nums) {
             sum += i;
-            if((i%3)==0) {ans += i;}
-            else a[(i%3) - 1].push_back(i);
+            if(i%3!=0) a[(i%3) - 1].push_back(i);
         }
         if((sum%3)==0) {
             return sum;
