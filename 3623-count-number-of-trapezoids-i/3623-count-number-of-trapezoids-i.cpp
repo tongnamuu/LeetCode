@@ -7,7 +7,6 @@ public:
         for(vector<int>& p : points) {
             count[p[1]]++;
         }
-        int m = count.size();
         long long cur = 0L;
         for(auto i = count.begin();i!=count.end();i++) {
             long long cnt = i -> second;
