@@ -20,9 +20,7 @@ public:
             int idx = lower_bound(a[find].begin(), a[find].end(), i) - a[find].begin();
             int up = upper_bound(a[find].begin(), a[find].end(), i) - a[find].begin();
             long long left = idx;
-            //cout<<i<<' '<<nums[i]<<' '<<idx<<' '<<up<<'\n';
             long long right = sz - up;
-            //cout<<left<<' '<<right<<'\n';
             ans += (left * right) % mod;
         }
         ans += zero * (zero - 1) * (zero - 2) / 6;
