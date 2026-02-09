@@ -1,0 +1,24 @@
+class Solution {
+public:
+    TreeNode* balanceBST(TreeNode* root) {
+        vector<int> v;
+        inorderTraversal(root, v);
+        int size = v.size();
+        return createBalancedBST(v, 0, size - 1);
+    }
+
+    void inorderTraversal(TreeNode* root, vector<int>& inorder) {
+        if (root == nullptr) return;
+        inorderTraversal(root->left, inorder);
+        inorder.push_back(root->val);
+        inorderTraversal(root->right, inorder);
+    }
+
+    TreeNode* createBalancedBST(const vector<int>& inorder, int start, int end) {
+        if (start > end) return nullptr;
+        int mid = start + (end - start) / 2;
+        TreeNode* leftSubtree = createBalancedBST(inorder, start, mid - 1);
+        TreeNode* rightSubtree = createBalancedBST(inorder, mid + 1, end);
+        return new TreeNode(inorder[mid], leftSubtree, rightSubtree);
+    }
+};
