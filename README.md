@@ -2,14 +2,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0002-add-two-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tongnamuu/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tongnamuu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tongnamuu/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -36,14 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tongnamuu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tongnamuu/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tongnamuu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tongnamuu/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/tongnamuu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tongnamuu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -122,8 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -160,8 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tongnamuu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0038-count-and-say](https://github.com/tongnamuu/LeetCode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tongnamuu/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -188,8 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tongnamuu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/tongnamuu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/tongnamuu/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -203,8 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tongnamuu/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tongnamuu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -215,12 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tongnamuu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tongnamuu/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tongnamuu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -232,8 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/tongnamuu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -248,12 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tongnamuu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/tongnamuu/LeetCode/tree/master/0175-combine-two-tables) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/tongnamuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -265,30 +268,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0386-lexicographical-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tongnamuu/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tongnamuu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -300,8 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -316,8 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/tongnamuu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tongnamuu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1642-water-bottles](https://github.com/tongnamuu/LeetCode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -328,8 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/tongnamuu/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tongnamuu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -341,42 +344,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1524-string-matching-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tongnamuu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tongnamuu/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/tongnamuu/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tongnamuu/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tongnamuu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/tongnamuu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/tongnamuu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -390,32 +393,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tongnamuu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/tongnamuu/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tongnamuu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/tongnamuu/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -423,42 +427,42 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/tongnamuu/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/tongnamuu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
