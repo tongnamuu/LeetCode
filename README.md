@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tongnamuu/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tongnamuu/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tongnamuu/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tongnamuu/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
