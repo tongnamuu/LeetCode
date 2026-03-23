@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tongnamuu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/tongnamuu/LeetCode/tree/master/1656-count-good-triplets) |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tongnamuu/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tongnamuu/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
