@@ -27,7 +27,7 @@ public:
                 }
             }
         }
-        long long ans = d[n-1][m-1][0];
+        long long ans = max(d[n-1][m-1][0], d[n-1][m-1][1]);
         if(ans<0) return -1;
         return ans % MOD;
 
