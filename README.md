@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2906-construct-product-matrix](https://github.com/tongnamuu/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tongnamuu/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tongnamuu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/tongnamuu/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/tongnamuu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/tongnamuu/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tongnamuu/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tongnamuu/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2906-construct-product-matrix](https://github.com/tongnamuu/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tongnamuu/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
