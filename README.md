@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
+| [0657-robot-return-to-origin](https://github.com/tongnamuu/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tongnamuu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/tongnamuu/LeetCode/tree/master/0952-word-subsets) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/tongnamuu/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1642-water-bottles](https://github.com/tongnamuu/LeetCode/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/tongnamuu/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
