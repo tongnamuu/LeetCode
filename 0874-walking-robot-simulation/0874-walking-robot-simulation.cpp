@@ -26,7 +26,6 @@ public:
                         break;
                     }
                 }
-                //cout<<pos.first<<' '<<pos.second<<'\n';
                 ans = max(ans, pos.first*pos.first + pos.second*pos.second);
             }
         }
