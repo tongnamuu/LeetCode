@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/tongnamuu/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/tongnamuu/LeetCode/tree/master/0952-word-subsets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/tongnamuu/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/tongnamuu/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/tongnamuu/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/tongnamuu/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1642-water-bottles](https://github.com/tongnamuu/LeetCode/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/tongnamuu/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
