@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/tongnamuu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tongnamuu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tongnamuu/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tongnamuu/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tongnamuu/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/tongnamuu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tongnamuu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tongnamuu/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tongnamuu/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 | Problem Name | Difficulty |
