@@ -19,7 +19,6 @@ public:
             int idx = search(nums1, 0, min(j, n-1), nums2[j]);
             if(idx>=0 && idx<=j && idx<n&&nums1[idx]<=nums2[j]) {
                 ans = max(ans, j-idx);
-                cout<<idx<<' '<<j<<' '<<nums1[idx]<<' '<<nums2[j]<<'\n';
             }
         }
         return ans;
