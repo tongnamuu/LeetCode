@@ -12,7 +12,6 @@ public:
         for(int i=0;i<n;i++) {
             temp = temp - total + n*nums[i];
             ans = max(ans, temp);
-            cout<<temp - total <<'\n';
         }
         return ans - total;
     }
