@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/tongnamuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/tongnamuu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
