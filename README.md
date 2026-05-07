@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/tongnamuu/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tongnamuu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3660-jump-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tongnamuu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tongnamuu/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tongnamuu/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3660-jump-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
