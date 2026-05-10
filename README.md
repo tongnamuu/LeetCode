@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/tongnamuu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tongnamuu/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tongnamuu/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2792-neighboring-bitwise-xor](https://github.com/tongnamuu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/tongnamuu/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tongnamuu/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tongnamuu/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
