@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tongnamuu/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0118-pascals-triangle](https://github.com/tongnamuu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongnamuu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tongnamuu/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0179-largest-number](https://github.com/tongnamuu/LeetCode/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tongnamuu/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tongnamuu/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tongnamuu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tongnamuu/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
