@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tongnamuu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/tongnamuu/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tongnamuu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tongnamuu/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1694-make-sum-divisible-by-p](https://github.com/tongnamuu/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/tongnamuu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/tongnamuu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tongnamuu/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/tongnamuu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tongnamuu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/tongnamuu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/tongnamuu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
