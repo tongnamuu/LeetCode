@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/tongnamuu/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tongnamuu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/tongnamuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tongnamuu/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tongnamuu/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tongnamuu/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
