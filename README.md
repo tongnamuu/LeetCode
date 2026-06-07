@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tongnamuu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tongnamuu/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/tongnamuu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2249-count-the-hidden-sequences](https://github.com/tongnamuu/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tongnamuu/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/tongnamuu/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tongnamuu/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/tongnamuu/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
