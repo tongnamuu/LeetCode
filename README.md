@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tongnamuu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3660-jump-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tongnamuu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/tongnamuu/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tongnamuu/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tongnamuu/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/tongnamuu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tongnamuu/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/tongnamuu/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 | Problem Name | Difficulty |
