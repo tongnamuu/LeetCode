@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<int> adj[100001];
-    int dfs(int now, int p) {
+    int dfs(int now) {
         int temp = 0;
         for(int next:adj[now]) {
-            temp = max(temp, dfs(next, now));
+            temp = max(temp, dfs(next));
         }
         return temp + 1;
     }
@@ -29,7 +29,7 @@ public:
         for(auto& e : edges) {
             adj[e[0]].push_back(e[1]);
         }
-        int cnt = dfs(1, -1) - 1;
+        int cnt = dfs(1) - 1;
         long long ans = pow(cnt - 1);
         return ans;
     }
