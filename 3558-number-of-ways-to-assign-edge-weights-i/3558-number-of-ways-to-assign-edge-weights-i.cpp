@@ -30,7 +30,6 @@ public:
             adj[e[0]].push_back(e[1]);
         }
         int cnt = dfs(1, -1) - 1;
-        cout<<cnt<<'\n';
         long long ans = pow(cnt - 1);
         return ans;
     }
