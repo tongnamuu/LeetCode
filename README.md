@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/tongnamuu/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tongnamuu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/tongnamuu/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3617-find-the-original-typed-string-i](https://github.com/tongnamuu/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3838-weighted-word-mapping](https://github.com/tongnamuu/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tongnamuu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tongnamuu/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3336-water-bottles-ii](https://github.com/tongnamuu/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/tongnamuu/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/tongnamuu/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/tongnamuu/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
