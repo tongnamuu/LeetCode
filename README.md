@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/tongnamuu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tongnamuu/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tongnamuu/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/tongnamuu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/tongnamuu/LeetCode/tree/master/0952-word-subsets) |
 | [1189-maximum-number-of-balloons](https://github.com/tongnamuu/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tongnamuu/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tongnamuu/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/tongnamuu/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-string-matching-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/tongnamuu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/tongnamuu/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/tongnamuu/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/tongnamuu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
