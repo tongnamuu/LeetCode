@@ -30,11 +30,9 @@ public:
             int y = road[1];
             int c = road[2];
             merge(x,y,c);
-            //cout<<x<<' '<<y<<' '<<c<<' '<<r[x]<<' '<<r[y]<<'\n';
         }
         for(int i=1;i<=n;i++) {
-            find(i);
-            // cout<<i<<' '<<p[i]<<' '<<r[i]<<'\n';
+           find(i);
         }
         return r[n];
     }
