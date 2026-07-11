@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tongnamuu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/tongnamuu/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tongnamuu/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/tongnamuu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tongnamuu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/tongnamuu/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/tongnamuu/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -631,10 +633,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tongnamuu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/tongnamuu/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tongnamuu/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tongnamuu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/tongnamuu/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tongnamuu/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
