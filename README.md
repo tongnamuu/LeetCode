@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/tongnamuu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/tongnamuu/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tongnamuu/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongnamuu/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3201-distribute-candies-among-children-ii](https://github.com/tongnamuu/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/tongnamuu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tongnamuu/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tongnamuu/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tongnamuu/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongnamuu/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tongnamuu/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tongnamuu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tongnamuu/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongnamuu/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tongnamuu/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/tongnamuu/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tongnamuu/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
