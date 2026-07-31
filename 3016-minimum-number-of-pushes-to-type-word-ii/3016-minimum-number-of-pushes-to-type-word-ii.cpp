@@ -11,7 +11,6 @@ public:
             if(count[u-'a']==count[v-'a']) return u < v;
             return count[u-'a'] > count[v-'a'];
         });
-        cout<<temp<<'\n';
         int score = 1;
         int ans = 0;
         int bucket = 0;
