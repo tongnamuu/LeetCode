@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tongnamuu/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tongnamuu/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/tongnamuu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0539-minimum-time-difference](https://github.com/tongnamuu/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/tongnamuu/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tongnamuu/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tongnamuu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tongnamuu/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [2050-count-good-numbers](https://github.com/tongnamuu/LeetCode/tree/master/2050-count-good-numbers) |
 ## Tree
 | Problem Name | Difficulty |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/tongnamuu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/tongnamuu/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/tongnamuu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -672,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tongnamuu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tongnamuu/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tongnamuu/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
