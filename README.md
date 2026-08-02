@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tongnamuu/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/tongnamuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tongnamuu/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tongnamuu/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0797-rabbits-in-forest](https://github.com/tongnamuu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/tongnamuu/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/tongnamuu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/tongnamuu/LeetCode/tree/master/0952-word-subsets) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/tongnamuu/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0868-push-dominoes](https://github.com/tongnamuu/LeetCode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -680,4 +683,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
