@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/tongnamuu/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/tongnamuu/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tongnamuu/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tongnamuu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/tongnamuu/LeetCode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/tongnamuu/LeetCode/tree/master/1642-water-bottles) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tongnamuu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/tongnamuu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tongnamuu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongnamuu/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1497-design-a-stack-with-increment-operation](https://github.com/tongnamuu/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tongnamuu/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tongnamuu/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tongnamuu/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -684,4 +687,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/tongnamuu/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
