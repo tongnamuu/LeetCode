@@ -13,10 +13,11 @@ public:
         vector<int>ans;
         queue<int>q;
         vector<int>d(n, 0);
-        //if(indegree[k]==0) {
-            d[k] = 1;
-            q.push(k);
-        //}
+
+
+        d[k] = 1;
+        q.push(k);
+
         while(!q.empty()) {
             int now = q.front();
             q.pop();
