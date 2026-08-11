@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/tongnamuu/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2915-count-of-interesting-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tongnamuu/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongnamuu/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tongnamuu/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tongnamuu/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tongnamuu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tongnamuu/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/tongnamuu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongnamuu/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongnamuu/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tongnamuu/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tongnamuu/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/tongnamuu/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tongnamuu/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongnamuu/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongnamuu/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tongnamuu/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/tongnamuu/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
