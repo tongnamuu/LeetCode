@@ -32,7 +32,6 @@ public:
         while(i<x) {
             if(cur==reservedSeats[i][0]) {
                 int reserve = reservedSeats[i][1];
-                //cout<<"making " << cur<<' '<<reserve<<'\n';
                 if(reserve==2||reserve==3) {
                     temp[0] = 0;
                 } else if (reserve == 4|| reserve==5) {
@@ -47,9 +46,6 @@ public:
                 i++;
             } else {
                 ans -= deadCount(temp);
-                // cout<<cur<<' '<<deadCount(temp)<<'\n';
-                // for(int i:temp) cout<<i<<' ';
-                // cout<<'\n';
                 cur = reservedSeats[i][0];
                 temp[0] = 1;
                 temp[1] = 1;
@@ -57,7 +53,6 @@ public:
             }
         }
         ans -= deadCount(temp);
-        //cout<<cur<<' '<<deadCount(temp)<<'\n';
         return ans;
     }
 };
