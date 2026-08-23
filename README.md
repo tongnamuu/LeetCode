@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/tongnamuu/LeetCode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/tongnamuu/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tongnamuu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/tongnamuu/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tongnamuu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2050-count-good-numbers](https://github.com/tongnamuu/LeetCode/tree/master/2050-count-good-numbers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/tongnamuu/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tongnamuu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/tongnamuu/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1927-sum-game](https://github.com/tongnamuu/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tongnamuu/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/tongnamuu/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tongnamuu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/tongnamuu/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tongnamuu/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/tongnamuu/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tongnamuu/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tongnamuu/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/tongnamuu/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/tongnamuu/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [1927-sum-game](https://github.com/tongnamuu/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/tongnamuu/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
