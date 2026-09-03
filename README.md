@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/tongnamuu/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tongnamuu/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/tongnamuu/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3838-weighted-word-mapping](https://github.com/tongnamuu/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tongnamuu/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
