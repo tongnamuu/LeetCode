@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/tongnamuu/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/tongnamuu/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3548-find-the-count-of-good-integers](https://github.com/tongnamuu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tongnamuu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tongnamuu/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tongnamuu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tongnamuu/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/tongnamuu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/tongnamuu/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tongnamuu/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tongnamuu/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tongnamuu/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tongnamuu/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tongnamuu/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
