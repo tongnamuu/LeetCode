@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tongnamuu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tongnamuu/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tongnamuu/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/tongnamuu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tongnamuu/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tongnamuu/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tongnamuu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tongnamuu/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tongnamuu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tongnamuu/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2689-rearranging-fruits](https://github.com/tongnamuu/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongnamuu/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongnamuu/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tongnamuu/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tongnamuu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/tongnamuu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tongnamuu/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/tongnamuu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tongnamuu/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2540-minimum-common-value](https://github.com/tongnamuu/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongnamuu/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1917-maximum-average-pass-ratio](https://github.com/tongnamuu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tongnamuu/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/tongnamuu/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
