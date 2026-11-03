@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/tongnamuu/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tongnamuu/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tongnamuu/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tongnamuu/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tongnamuu/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tongnamuu/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/tongnamuu/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/tongnamuu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/tongnamuu/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tongnamuu/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tongnamuu/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tongnamuu/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/tongnamuu/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/tongnamuu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
